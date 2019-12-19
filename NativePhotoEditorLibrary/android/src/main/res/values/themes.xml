@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name="DefaultExplainingPermissionsTheme" parent="Theme.AppCompat.Light.Dialog.Alert">-->
+<!--        &lt;!&ndash; Used for the buttons &ndash;&gt;-->
+<!--        <item name="colorAccent">#61c3e7</item>-->
+<!--        &lt;!&ndash; Used for the title and text &ndash;&gt;-->
+<!--        <item name="android:textColorPrimary">#3d3d3d</item>-->
+<!--        &lt;!&ndash; Used for the background &ndash;&gt;-->
+<!--        <item name="android:background">@android:color/white</item>-->
+<!--    </style>-->
+</resources>
